@@ -1,0 +1,17 @@
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\bin\Debug\Alignment.dll
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\bin\Debug\Alignment.pdb
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\obj\Debug\Alignment.csprojResolveAssemblyReference.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\obj\Debug\Alignment.csproj.CoreCompileInputs.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\obj\Debug\Alignment.MainPage.xaml.g.cs
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\obj\Debug\Alignment.App.xaml.g.cs
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\obj\Debug\Alignment.csproj.CopyComplete
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\obj\Debug\Alignment.dll
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM135\Exercicio 1\Alignment\Alignment\obj\Debug\Alignment.pdb
